@@ -23,6 +23,9 @@
 
 - useState() is the new function that we used in form .
 
+- useEffect() is the new function that we used in form .
+
+
 ## Links
 
 Sandbox Deployment Link: [Sandbox](https://codesandbox.io/s/autumn-surf-g685b)
