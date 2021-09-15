@@ -25,6 +25,8 @@
 
 - useEffect() is the new function that we used in form .
 
+- useReducer() is the new function that we used in app .
+
 
 ## Links
 
